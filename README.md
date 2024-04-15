@@ -19,16 +19,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ CSS
 
-- ✔️ JavaScript
-
-
 
 # Pré-requisitos
 
 antes de começar, vocêw vai precisar ter instalado em sua máquina as seguintes ferramentas: [GIT](https://git-scm.com/)e o [VSCode](https://code.visualstudio.com/download).
 
 <h2> Rodando o Sistema Web </h2>
-$ git clone <https://github.com/thaiscris24/Sistema_web-master>
+$ git clone <https://github.com/thaiscris24/cart-o-de-login/tree/master>
 
 Após isso você precisa abrir o Visual Studio Code e clicar em 'Open preview' e assim vizualizará o Web site.
 
